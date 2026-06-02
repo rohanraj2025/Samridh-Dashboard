@@ -455,5 +455,3 @@ with tab5:
         mime="text/csv",
     )
 
-st.markdown("---")
-st.markdown('<div class="small-note">Built on Clean_Data sheet. Use cleaned columns only for correct dashboard numbers.</div>', unsafe_allow_html=True)
