@@ -12,7 +12,7 @@ import streamlit as st
 # PAGE SETUP
 # =========================
 st.set_page_config(
-    page_title="SAMRIDH 2nd Cohort Dashboard",
+    page_title="SAMRIDH Dashboard",
     page_icon="🚀",
     layout="wide",
     initial_sidebar_state="expanded",
