@@ -246,7 +246,7 @@ def explode_technology(df):
 # =========================
 # MAIN APP
 # =========================
-st.markdown('<div class="big-title">SAMRIDH 2nd Cohort Dashboard</div>', unsafe_allow_html=True)
+st.markdown('<div class="big-title">SAMRIDH Dashboard</div>', unsafe_allow_html=True)
 
 
 file_path = find_excel_file()
